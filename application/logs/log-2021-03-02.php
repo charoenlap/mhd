@@ -1,0 +1,14 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-03-02 12:42:09 --> Severity: Warning --> mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/member/index.php 2
+ERROR - 2021-03-02 12:42:09 --> Severity: Warning --> mysqli_select_db(): Couldn't fetch mysqli /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/member/index.php 3
+ERROR - 2021-03-02 12:42:09 --> Severity: Warning --> mysqli_query(): Couldn't fetch mysqli /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/member/index.php 5
+ERROR - 2021-03-02 12:42:09 --> Severity: Warning --> mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/member/index.php 9
+ERROR - 2021-03-02 12:42:12 --> Severity: Warning --> mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/member/index.php 2
+ERROR - 2021-03-02 12:42:12 --> Severity: Warning --> mysqli_select_db(): Couldn't fetch mysqli /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/member/index.php 3
+ERROR - 2021-03-02 12:42:12 --> Severity: Warning --> mysqli_query(): Couldn't fetch mysqli /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/member/index.php 5
+ERROR - 2021-03-02 12:42:12 --> Severity: Warning --> mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/member/index.php 9
+ERROR - 2021-03-02 12:48:51 --> Severity: error --> Exception: Call to undefined function mysql_connect() /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/member/index.php 11
+ERROR - 2021-03-02 13:08:35 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/core/CodeIgniter.php 532
+ERROR - 2021-03-02 13:17:15 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/core/CodeIgniter.php 532
+ERROR - 2021-03-02 13:20:36 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/core/CodeIgniter.php 532

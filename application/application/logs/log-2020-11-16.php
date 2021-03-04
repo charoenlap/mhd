@@ -1,0 +1,58 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-16 10:06:58 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 10:13:09 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 10:13:21 --> ท่านยังไม่ได้ยืนยันอีเมล กรุณายืนยันอีเมลเข้าระบบของท่านที่อีเมลผู้สมัคร
+ERROR - 2020-11-16 10:13:21 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 10:13:36 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 11:53:21 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 11:56:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 11:56:21 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 11:56:38 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 11:56:54 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 11:56:57 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 11:58:17 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:00:14 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:00:33 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:00:41 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:00:44 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:01:07 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:01:25 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:02:43 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:03:29 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:05:28 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:05:58 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:08:23 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:14:29 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:15:48 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:15:55 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:16:33 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:18:58 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:20:15 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:22:47 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:22:52 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:23:02 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:27:42 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:28:00 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:28:32 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:28:39 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:32:05 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:34:33 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:45:20 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\mhd\application\controllers\Register.php 22
+ERROR - 2020-11-16 12:45:20 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\mhd\application\controllers\Register.php 24
+ERROR - 2020-11-16 12:45:36 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\mhd\application\controllers\Register.php 22
+ERROR - 2020-11-16 12:45:36 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\mhd\application\controllers\Register.php 24
+ERROR - 2020-11-16 12:46:07 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\mhd\application\controllers\Register.php 22
+ERROR - 2020-11-16 12:46:07 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\mhd\application\controllers\Register.php 24
+ERROR - 2020-11-16 12:46:21 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 12:50:55 --> Severity: error --> Exception: Call to undefined method MY_Loader::page() C:\xampp\htdocs\mhd\application\controllers\Register.php 74
+ERROR - 2020-11-16 12:52:37 --> Severity: error --> Exception: Call to undefined method MY_Loader::page() C:\xampp\htdocs\mhd\application\controllers\Register.php 74
+ERROR - 2020-11-16 12:52:54 --> Severity: error --> Exception: Call to undefined method Register::load() C:\xampp\htdocs\mhd\application\controllers\Register.php 74
+ERROR - 2020-11-16 13:09:39 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 13:09:53 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 13:09:53 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 13:10:04 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 13:10:04 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 13:10:45 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 13:10:54 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532
+ERROR - 2020-11-16 17:08:33 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\mhd\system\core\CodeIgniter.php 532

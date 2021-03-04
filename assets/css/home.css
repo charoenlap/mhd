@@ -1,0 +1,135 @@
+body {
+  overflow-x: hidden;
+}
+a { text-decoration: none; color:#333; }
+a:hover { color:#1F4F91; }
+
+.text-write { color:#fff !important; }
+.bg-blue {
+  background: #1F4F91;
+}
+.bg-home {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+li.list-group-item a { text-decoration: none; display: block; }
+li.list-group-item:hover { background:#FFC845; }
+li.list-group-item:hover a { color:#333 !important; }
+section#content {
+  position: relative;
+  z-index: 102;
+  padding: 0 15px;
+}
+section#sidebar {
+  height: 100vh;
+  padding: 0 15px;
+  padding-top: 15px;
+  z-index: 101;
+  position: relative;
+}
+section#sidebar #mainmenu {
+  margin: 0 -15px;
+  margin-top: 15px;
+}
+section#sidebar #mainmenu li a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  padding: 10px 15px;
+  font-weight: bold;
+  font-size: 16px;
+}
+section#sidebar #mainmenu li a:not(.loginlink):hover, section#sidebar #mainmenu li a.active {
+  background: #FFC845;
+  color: #333;
+}
+#rightside li {
+  background: #1F4F91;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+#rightside li a {
+  text-decoration: none;
+}
+#rightside li a .media img {
+  height: 45px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+#rightside li a .media .media-body {
+  padding: 0;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+}
+#rightside li a:hover .media .media-body {
+  color: #FFC845;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #fff;
+  z-index: 100;
+  padding: 10px 15px;
+  text-align: center;
+  font-size: 14px;
+}
+@media (max-width: 575.98px) {
+  footer {
+    z-index: 102;
+    font-size: 6px;
+ }
+}
+@media (max-width: 767.98px) {
+  section#sidebar {
+    height: auto;
+    padding: 10px 15px;
+ }
+  section#sidebar button {
+    padding: 0;
+ }
+  section#sidebar #mainmenu {
+    display: none;
+ }
+  section#sidebar #mainmenu li a {
+    font-size: 14px;
+ }
+  section#sidebar #mainmenu img {
+    width: 75%;
+    margin: 0 auto;
+ }
+  footer {
+    z-index: 102;
+    font-size: 8px;
+ }
+  #rightside {
+    margin-top: 15px;
+ }
+  #rightside li {
+    margin-bottom: 5px;
+ }
+  #rightside li a .media img {
+    height: 50px;
+ }
+  #rightside li a .media .media-body {
+    font-size: 10px;
+ }
+}
+@media (max-width: 991.98px) {
+  footer {
+    font-size: 12px;
+ }
+  #rightside li a .media .media-body {
+    font-size: 10px;
+ }
+}
+@media (max-width: 1199.98px) {
+  #rightside li a .media .media-body {
+    font-size: 12px;
+ }
+}

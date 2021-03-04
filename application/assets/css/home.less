@@ -1,0 +1,149 @@
+body {
+  overflow-x: hidden;
+}
+.bg-blue {
+  background: #1F4F91;
+}
+.bg-home {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+  width:100%;
+}
+
+section#content {
+  position: relative;
+  z-index: 102;
+  padding:0 15px;
+}
+section#sidebar {
+  height:100vh;
+  padding:0 15px;
+  padding-top:15px;
+  z-index: 101;
+  position: relative;
+  #mainmenu {
+    margin:0 -15px;
+    margin-top:15px;
+    li {
+      a {
+        color:#fff;
+        text-decoration: none;
+        display: block;
+        padding:10px 15px;
+        font-weight: bold;
+        font-size:16px;
+        &:not(.loginlink):hover,&.active {
+          background:#FFC845;
+          color:#333;
+        }
+      }
+
+     
+    }
+  }
+}
+#rightside {
+  li {
+    background: #1F4F91;
+    border-radius: 5px;
+    margin-bottom:10px;
+    a {
+      text-decoration: none;
+      .media {
+        img {
+          height:45px;
+          border-top-left-radius: 5px;
+          border-bottom-left-radius: 5px;
+        }
+        .media-body { padding:0; color:#fff; font-size:16px; font-weight: bold; }
+      }
+      &:hover {
+        .media .media-body {
+          color:#FFC845;
+        }
+      }
+    }
+  }
+}
+footer { 
+  position: absolute;
+  bottom:0;
+  left:0;
+  width:100%;
+  background:#fff;
+  z-index: 100;
+  padding:10px 15px;
+  text-align:center;
+  font-size:14px;
+}
+// X-Small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { 
+  footer {
+    z-index: 102;
+    font-size:6px;
+  }
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { 
+  section#content {
+  }
+  section#sidebar {
+    height:auto;
+    padding:10px 15px;
+    button{ padding:0;}
+    #mainmenu { 
+      display: none;
+      li a {
+        font-size: 14px;
+      }
+      img { width:75%; margin:0 auto;}
+    }
+  }
+  footer {
+    z-index: 102;
+    font-size:8px;
+  }
+  #rightside {
+    margin-top:15px;
+    li {
+      margin-bottom:5px;
+      a {
+        .media {
+          img {
+            height:50px;
+          }
+          .media-body { font-size:10px; }
+        }
+      }
+    }
+  }
+
+}
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { 
+  footer {
+    font-size:12px;
+  }
+  #rightside li a .media .media-body {
+    font-size:10px;
+  }
+}
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { 
+  #rightside li a .media .media-body {
+    font-size:12px;
+  }
+}
+
+// X-Large devices (large desktops, less than 1400px)
+@media (max-width: 1399.98px) { 
+
+}
+
+// XX-Large devices (larger desktops)
+// No media query since the xxl breakpoint has no upper bound on its width

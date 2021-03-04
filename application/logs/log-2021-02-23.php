@@ -1,0 +1,25 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-23 13:54:01 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/core/CodeIgniter.php 532
+ERROR - 2021-02-23 15:38:34 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/core/CodeIgniter.php 532
+ERROR - 2021-02-23 15:38:49 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/core/CodeIgniter.php 532
+ERROR - 2021-02-23 15:39:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2021-02-23 15:39:25 --> Unable to connect to the database
+ERROR - 2021-02-23 15:44:22 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/core/CodeIgniter.php 532
+ERROR - 2021-02-23 15:45:44 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/core/CodeIgniter.php 532
+ERROR - 2021-02-23 15:46:05 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/core/CodeIgniter.php 532
+ERROR - 2021-02-23 15:46:09 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/core/CodeIgniter.php 532
+ERROR - 2021-02-23 15:49:07 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/core/CodeIgniter.php 532
+ERROR - 2021-02-23 15:50:13 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/system/core/CodeIgniter.php 532
+ERROR - 2021-02-23 16:05:20 --> Severity: Notice --> Trying to get property 'id' of non-object /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/controllers/Register.php 21
+ERROR - 2021-02-23 16:05:20 --> Severity: Notice --> Trying to get property 'member_no' of non-object /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/controllers/Register.php 30
+ERROR - 2021-02-23 16:05:20 --> Severity: Notice --> Trying to get property 'email' of non-object /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/controllers/Register.php 31
+ERROR - 2021-02-23 16:05:20 --> Severity: Notice --> Trying to get property 'firstname' of non-object /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/controllers/Payment.php 46
+ERROR - 2021-02-23 16:05:20 --> Severity: Notice --> Trying to get property 'lastname' of non-object /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/controllers/Payment.php 47
+ERROR - 2021-02-23 16:05:20 --> Severity: Notice --> Trying to get property 'id' of non-object /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/controllers/Payment.php 50
+ERROR - 2021-02-23 16:05:20 --> Severity: Notice --> Undefined index: member_info /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/common/navbar.php 109
+ERROR - 2021-02-23 16:05:20 --> Severity: Notice --> Undefined index: member_info /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/common/navbar.php 109
+ERROR - 2021-02-23 16:45:19 --> Severity: Notice --> Undefined index: admin_info /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/common/navbar.php 28
+ERROR - 2021-02-23 16:45:19 --> Severity: Notice --> Undefined index: admin_register /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/common/navbar.php 104
+ERROR - 2021-02-23 16:46:27 --> Severity: Notice --> Undefined index: admin_info /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/common/navbar.php 28
+ERROR - 2021-02-23 16:46:27 --> Severity: Notice --> Undefined index: admin_register /home/govinda/domains/govindarestaurantbkk.com/public_html/mhd/application/views/admin/common/navbar.php 104

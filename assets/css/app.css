@@ -1,0 +1,54 @@
+.sidebar-dark .nav-item .nav-link {
+    padding:7px 15px;
+}
+.sidebar-dark .nav-item .nav-link span { font-size:1em; }
+.sidebar-dark .sidebar-heading { font-size:0.9em; }
+.sidebar-dark .nav-item .nav-link i { font-size:1.1em; }
+.sidebar .sidebar-brand { height:150px;}
+
+input[type="checkbox"].form-control {
+    height: 20px;
+}
+
+
+#register_disabled.modal .modal-body img {
+    width:50%;
+}
+#register_disabled.modal .modal-body {
+    text-align: center;
+    background: #4e73df;
+    color:#fff;
+}
+
+.bg-bluemhd {
+    background: #1F4F91;
+}
+
+
+#nav-menubar { width:100%; }
+#nav-menubar li { padding:10px 20px; }
+#nav-menubar li.active,
+#nav-menubar li:hover { background:#FFC845; cursor: pointer; }
+#nav-menubar li a { width:100%; display: block; color:#fff; font-size: 14px; text-decoration: none; }
+#nav-menubar li.active a,
+#nav-menubar li:hover a { color:#333; } 
+ul#nav-menubar li.active.login-link,
+ul#nav-menubar li.login-link:hover { background: transparent; }
+
+#mainmenu .list-group li.list-group-item { padding:0 !important; }
+
+
+form .row>label,
+.text-blue {
+    color:#1F4F91;
+    font-weight: bold;
+}
+
+#blockpreview {
+    position: fixed;
+    top:0; 
+    left:0;
+    width:100%;
+    background:rgba(0,0,0,0.3);
+    padding:10px 15px;
+}
